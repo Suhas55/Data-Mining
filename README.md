@@ -1,5 +1,5 @@
 # Data-Mining
-Config files for my GitHub profile.
+
 ### Project: Bank Customer Segmentation and Insurance Claim Prediction
 
 ###### Course: Data Mining
